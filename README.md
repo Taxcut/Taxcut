@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0B14&section=header" width="100%"/>
+  </a>
+</div>
+
+<div align="center">
 
 # ＴＡＸＣＵＴ
 
@@ -6,11 +12,23 @@
 
 <p>
   <b>⚔ HCF / PvP Systems</b>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
+  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
   <b>▣ Backend Infrastructure</b>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
+  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
   <b>◈ Custom Spigot / Proxy</b>
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=taxcut&color=1a1526&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/taxcut?color=1a1526&style=for-the-badge&logo=github&labelColor=0D0B14"/>
+
+<img src="https://img.shields.io/github/stars/taxcut?color=1a1526&style=for-the-badge&logo=github&labelColor=0D0B14"/>
 
 </div>
 
@@ -50,13 +68,13 @@ class Taxcut {
     };
 
     String philosophy =
-        "I like cars, HCF, food, & fashion. " +
-        "I enjoy building systems that feel competitive, " +
-        "smooth, optimized, and built to scale.";
+        "Build systems that feel smooth, " +
+        "competitive, optimized, and polished.";
 }
 ```
 
 </td>
+
 <td width="40%" valign="top">
 
 ## ⚡ CURRENTLY WORKING ON
@@ -68,10 +86,15 @@ class Taxcut {
 + Anticheat
 ```
 
+<br>
+
 ## 💭 PHILOSOPHY
 
-> I like cars, HCF, food, & fashion.  
-> I enjoy building systems that feel competitive, smooth, optimized, and built to scale.
+> I like cars, HCF, food, & fashion.
+>
+> I enjoy building systems that feel
+> competitive, smooth, optimized,
+> and built to scale.
 
 </td>
 </tr>
@@ -79,57 +102,73 @@ class Taxcut {
 
 ---
 
-## 🛠 TECH STACK
+<div align="center">
+
+# 🛠 TECH STACK
+
+</div>
 
 <div align="center">
 
 <a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 </a>
+
 <a href="https://kotlinlang.org/">
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
 </a>
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
+
+<a href="https://python.org/">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </a>
+
 <a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </a>
+
 <a href="https://redis.io/">
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" />
 </a>
+
 <a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </a>
+
 <a href="https://www.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 </a>
+
 <a href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
 </a>
+
 <a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
 </a>
+
 <a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
+
 <a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 </a>
+
 <a href="https://www.jetbrains.com/idea/">
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48"/>
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GITHUB STATS
-
 <div align="center">
+
+# 📊 GITHUB STATS
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=taxcut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B266FF&icon_color=B266FF&text_color=FFFFFF"/>
 
@@ -164,7 +203,7 @@ Backend:
 
 <div align="center">
 
-## 🔗 CONNECT
+# 🌐 CONNECT
 
 <a href="https://github.com/taxcut">
   <img src="https://img.shields.io/badge/GitHub-taxcut-0D0B14?style=for-the-badge&logo=github&logoColor=B266FF"/>
@@ -174,10 +213,20 @@ Backend:
   <img src="https://img.shields.io/badge/Discord-tax1001-0D0B14?style=for-the-badge&logo=discord&logoColor=B266FF"/>
 </a>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 ```txt
-</> code. optimize. dominate.
+code.optimize.dominate.
 ```
 
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0D0B14&section=footer" width="100%"/>
+  </a>
 </div>
