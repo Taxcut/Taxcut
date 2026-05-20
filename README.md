@@ -1,41 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=7A3CFF&section=header&text=TAXCUT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=B266FF&center=true&vCenter=true&width=800&lines=Minecraft+Network+Developer;Backend+%26+Infrastructure;Custom+HCF+Systems;Building+Competitive+Experiences" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0D0B14&section=header&text=TAXCUT&fontSize=58&fontColor=B266FF&animation=fadeIn&fontAlignY=34"/>
 
 <br>
 
-<a href="https://github.com/taxcut?tab=followers">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/taxcut?color=B266FF&labelColor=7A3CFF&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=2000&color=B266FF&center=true&vCenter=true&width=600&lines=Developer;Backend+Infrastructure;Custom+HCF+Systems;Competitive+Experiences" />
 
-<a href="https://github.com/taxcut">
-  <img src="https://komarev.com/ghpvc/?username=taxcut&color=B266FF&style=for-the-badge"/>
-</a>
+<br><br>
 
-<a href="https://github.com/taxcut?tab=repositories">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/taxcut?color=B266FF&style=for-the-badge&labelColor=7A3CFF&logo=star"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taxcut&color=1a1526&style=for-the-badge&label=PROFILE+VIEWS"/>
+  
+  <img src="https://img.shields.io/github/followers/taxcut?color=1a1526&style=for-the-badge&logo=github&labelColor=0D0B14"/>
+  
+  <img src="https://img.shields.io/github/stars/taxcut?color=1a1526&style=for-the-badge&logo=github&labelColor=0D0B14"/>
+</p>
 
 </div>
 
 ---
 
-# 💜 About Me
+<div align="center">
+
+### HCF / PvP Systems &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; Backend Infrastructure &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; Custom Spigot / Proxy
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 💜 About Me
 
 ```java
 class Taxcut {
 
-    String focus = "Minecraft Network Development";
+    String focus = "Developer";
 
     String[] specialties = {
-        "HCF Infrastructure",
-        "PvP Systems",
-        "Custom Spigot Development",
-        "Backend Optimization",
+        "HCF / PvP Systems",
+        "Custom Spigot",
         "Proxy Infrastructure",
-        "Anticheat Development"
+        "Backend Optimization",
+        "Anticheat Systems",
+        "Queue Infrastructure"
     };
 
     String[] languages = {
@@ -56,9 +66,11 @@ class Taxcut {
 }
 ```
 
----
+</td>
 
-# ⚡ Currently Working On
+<td width="40%" valign="top">
+
+## ⚡ Currently Working On
 
 ```diff
 + HCF Core
@@ -67,13 +79,77 @@ class Taxcut {
 + Anticheat
 ```
 
+<br>
+
+## 💭 Philosophy
+
+> I like cars, HCF, food, & fashion.
+>
+> I enjoy building systems that feel
+> competitive, smooth, optimized,
+> and modern without unnecessary clutter.
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 🛠️ Technologies
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,python,mongodb,redis,mysql,docker,linux,git,github,vscode,idea&theme=dark"/>
+<a href="https://www.java.com/">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+</a>
+
+<a href="https://kotlinlang.org/">
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+</a>
+
+<a href="https://python.org/">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</a>
+
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+</a>
+
+<a href="https://redis.io/">
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" />
+</a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</a>
+
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+</a>
+
+<a href="https://www.linux.org/">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+</a>
+
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" />
+</a>
 
 </div>
 
@@ -83,11 +159,17 @@ class Taxcut {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=taxcut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B266FF&icon_color=7A3CFF&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taxcut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B266FF&icon_color=B266FF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=taxcut&theme=tokyonight&hide_border=true&background=00000000&ring=B266FF&fire=B266FF&currStreakLabel=B266FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E"/>
+
+</div>
 
 <br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=taxcut&theme=tokyonight&hide_border=true&background=00000000&ring=7A3CFF&fire=B266FF&currStreakLabel=B266FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=B266FF"/>
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taxcut&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B266FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -112,23 +194,16 @@ Backend:
 
 ---
 
-# 💭 Philosophy
-
-> I enjoy building systems that feel competitive, polished,
-> optimized, and modern without unnecessary clutter.
-
----
-
 <div align="center">
 
 # 🌐 Connect
 
 <a href="https://github.com/taxcut">
-  <img src="https://img.shields.io/badge/GitHub-taxcut-B266FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-taxcut-1a1526?style=for-the-badge&logo=github&logoColor=B266FF"/>
 </a>
 
 <a href="https://discord.com/users/831394601441034281">
-  <img src="https://img.shields.io/badge/Discord-tax1001-7A3CFF?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-tax1001-1a1526?style=for-the-badge&logo=discord&logoColor=B266FF"/>
 </a>
 
 </div>
@@ -137,6 +212,12 @@ Backend:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7A3CFF&section=footer"/>
+```txt
+code.optimize.dominate.
+```
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0B14&section=footer"/>
